@@ -27,6 +27,7 @@ class Cake extends Product {
         // TODO Auto-generated method stub
         super.addproject();
         System.out.println("Hi?");
+        System.out.println("Commit Github");
 
     }
 }
